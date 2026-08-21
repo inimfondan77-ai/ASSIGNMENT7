@@ -11,7 +11,7 @@ function App() {
     <div className="min-h-screen bg-gray-100 p-10">
       <div className="max-w-md mx-auto bg-white p-6 rounded-xl shadow-lg">
         <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">
-          Students
+          Student's Names and their Scores
         </h1>
 
         <div className="space-y-3">
